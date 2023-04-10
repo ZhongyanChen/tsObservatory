@@ -1,0 +1,7 @@
+{
+    "target commit": "The path of the folder storing the lists of target commits.",
+    "smell detection": "The path of the folder for storing smell detection results.",
+    "graph data": "The path of the folder for storing graph data.",
+    "line diff": "The path of the folder for storing mapping information extracted from Git diff command",
+    "duplicated instances": "The path of the folder for storing duplicated smell instances."
+}
